@@ -1,0 +1,33 @@
+{
+  "name": "generator-mango",
+  "version": "0.0.0",
+  "description": "Init your project in the manGoweb way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/manGoweb/generator-mango.git"
+  },
+  "files": [
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "mango",
+    "mango-cli",
+    "mangoweb",
+    "frontend",
+    "devstack"
+  ],
+  "author": "manGoweb s.r.o. <info@mangoweb.cz> (www.mangoweb.cz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manGoweb/generator-mango/issues"
+  },
+  "homepage": "https://github.com/manGoweb/generator-mango#readme",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5"
+  }
+}
